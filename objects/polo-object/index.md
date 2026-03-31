@@ -1,13 +1,13 @@
 ---
-author: student name
-title: "Relic from Monastery"
+author: Caden Williams
+title: "Sports on the Silk Road"
 layout: base
-header-image: images/han-coin-two-sides-mahogany.png
-thumbnail: images/han-coin-mahogany.png
-summary: The image is of the Han coin, not the monastery relic.
-geo: [31.777, 35.224]
-placename: Jerusalem
-tags:
+header-image: images/polo-image.jpeg
+thumbnail: images/polo-image.jpeg
+summary: The image is of a polo painting
+geo: [38.085403577214784, 46.286575734303874]
+placename: Iran, Tabriz
+tags:polo, painting, iran
   - object
 ---
 
