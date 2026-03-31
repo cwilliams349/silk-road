@@ -5,8 +5,8 @@ layout: base
 header-image: https://images.metmuseum.org/CRDImages/as/original/DP123342.jpg
 thumbnail: images/metmuseum.org/CRDImages/as/original/DP123342.jpg
 summary: This object is a wrestler's weight
-geo: [47.199, 102.834]
-placename: Karakorum
+geo: [34.051333940965726, 71.61793693318248]
+placename: Gandhara
 tags: wrestler, weight, Gandhara
   - object
 ---
