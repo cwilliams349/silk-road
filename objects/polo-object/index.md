@@ -3,7 +3,7 @@ author: Caden Williams
 title: "Sports on the Silk Road"
 layout: base
 header-image: https://collectionapi.metmuseum.org/api/collection/v1/iiif/452135/866009/main-image.jpg
-thumbnail: images/collectionapi.metmuseum.org/api/collection/v1/iiif/452135/866009/main-image.jpg
+thumbnail: images/metmuseum.org/api/collection/v1/iiif/452135/866009/main-image.jpg
 summary: The image is of a polo painting
 geo: [38.085403577214784, 46.286575734303874]
 placename: Iran, Tabriz
