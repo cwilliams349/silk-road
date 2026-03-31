@@ -5,8 +5,8 @@ layout: base
 header-image: images/asset1_20150417_1aca2dec-a2c4-495c-9a16-360333d29bf3.jpg
 thumbnail: images/asset1_20150417_1aca2dec-a2c4-495c-9a16-360333d29bf3.jpg
 summary: This image is of chinese women playing Chui Wan.
-geo: [39.877, 64.408]
-placename: Bukhara
+geo: [31.29629, 121.48050]
+placename: Chui Wan Painting
 tags:
   - object
 ---
