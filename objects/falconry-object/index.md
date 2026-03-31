@@ -1,13 +1,13 @@
 ---
-author: student name
-title: "Han Coin with Greek Inscription"
+author: Caden Williams
+title: "Sports on the Silk Road"
 layout: base
-header-image: images/han-coin-two-sides-blushwood.png
-thumbnail: images/han-coin-blushwood.png
-summary: One or two sentences about the coin but this one is not from Bukhara.
+header-image: https://collectionapi.metmuseum.org/api/collection/v1/iiif/452135/866009/main-image.jpg
+thumbnail: images/metmuseum.org/api/collection/v1/iiif/452135/866009/main-image.jpg
+summary: The image is of Nomads hunting with falcons.
 geo: [39.877, 64.408]
-placename: Bukhara
-tags:
+placename: Lin'an
+tags: falcon, hunting, china
   - object
 ---
 
