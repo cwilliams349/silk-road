@@ -1,13 +1,13 @@
 ---
-author: student name
-title: "Altarpiece from a Monastery"
+author: Caden Williams
+title: "Sports on the Silk Road"
 layout: base
-header-image: images/han-coin-two-sides-violet.png
-thumbnail: images/han-coin-violet.png
-summary: This image is of the Han coin, not an altarpiece from a monastery.
+header-image: https://images.metmuseum.org/CRDImages/as/original/DP123342.jpg
+thumbnail: images/metmuseum.org/CRDImages/as/original/DP123342.jpg
+summary: This object is a wrestler's weight
 geo: [47.199, 102.834]
 placename: Karakorum
-tags:
+tags: wrestler, weight, Gandhara
   - object
 ---
 
