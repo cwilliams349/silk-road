@@ -5,7 +5,7 @@ layout: base
 header-image: https://collectionapi.metmuseum.org/api/collection/v1/iiif/452135/866009/main-image.jpg
 thumbnail: images/metmuseum.org/api/collection/v1/iiif/452135/866009/main-image.jpg
 summary: The image is of Nomads hunting with falcons.
-geo: [39.877, 64.408]
+geo: [30.27414519909764, 120.15364835116557]
 placename: Lin'an
 tags: falcon, hunting, china
   - object
