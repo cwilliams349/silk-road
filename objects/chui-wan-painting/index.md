@@ -3,7 +3,7 @@ author: Caden Williams
 title: "Sports on the Silk Road"
 layout: base
 header-image: images copy/Chui wan painting 2.jpg
-thumbnail: images/shanghaimuseum.net/mu/asset1/20150417/1aca2dec-a2c4-495c-9a16-360333d29bf3.jpg
+thumbnail: images copy/Chui wan painting 2.jpg
 summary: This image is of chinese women playing Chui Wan.
 geo: [31.29629, 121.48050]
 placename: Shanghai

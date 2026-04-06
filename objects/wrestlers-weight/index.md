@@ -2,8 +2,8 @@
 author: Caden Williams
 title: "Sports on the Silk Road"
 layout: base
-header-image: https://images.metmuseum.org/CRDImages/as/original/DP123342.jpg
-thumbnail: images/metmuseum.org/CRDImages/as/original/DP123342.jpg
+header-image: images/wrestlers-weight.jpeg
+thumbnail: images/wrestlers-weight.jpeg
 summary: This object is a wrestler's weight
 geo: [34.051333940965726, 71.61793693318248]
 placename: Gandhara
