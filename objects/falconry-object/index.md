@@ -5,7 +5,7 @@ layout: base
 header-image: images/DP153514.jpg
 thumbnail: images/DP153514.jpg
 summary: The image is of Nomads hunting with falcons.
-geo: [30.27414519909764, 120.15364835116557]
+geo: [30.274, 120.153]
 placename: Lin'an
 tags: falcon, hunting, china
   - object

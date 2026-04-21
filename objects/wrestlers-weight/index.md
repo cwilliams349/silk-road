@@ -5,7 +5,7 @@ layout: base
 header-image: images/wrestlers-weight.jpeg
 thumbnail: images/wrestlers-weight.jpeg
 summary: This object is a wrestler's weight
-geo: [34.051333940965726, 71.61793693318248]
+geo: [34.051, 71.617]
 placename: Gandhara
 tags: wrestler, weight, Gandhara
   - object

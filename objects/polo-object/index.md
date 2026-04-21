@@ -5,7 +5,7 @@ layout: base
 header-image: images-copy/Polo.jpg
 thumbnail: images-copy/Polo.jpg
 summary: The image is of a polo painting
-geo: [38.085403577214784, 46.286575734303874]
+geo: [38.085, 46.286]
 placename: Iran, Tabriz
 tags: polo, painting, iran
   - object
