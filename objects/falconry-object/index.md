@@ -2,8 +2,8 @@
 author: Caden Williams
 title: "Sports on the Silk Road"
 layout: base
-header-image: images-copy/DP153514.jpg
-thumbnail: images-copy/DP153514.jpg
+header-image: images/DP153514.jpg
+thumbnail: images/DP153514.jpg
 summary: The image is of Nomads hunting with falcons.
 geo: [30.27414519909764, 120.15364835116557]
 placename: Lin'an
