@@ -14,7 +14,6 @@ tags: chui wan, women, china
 # Introducing the Scene of Chui Wan
 
 The first object is a handscroll painting that shows a group of figures playing chui wan, a golf-like game that was popular in China during the Song, Yuan, and Ming dynasties. Scenes like this are described in historical sources as taking place in controlled, almost staged environments, where players stood on open ground with attendants nearby holding extra clubs and watching each shot.[^randomthing] In the painting, a small group focuses on the ball while one player prepares to strike, and the others follow the action closely. The setup does not feel random or casual. Instead, it looks organized and deliberate, with each person playing a specific role, which already starts to suggest that the activity was more structured than just a simple pastime. 
-[^randomthing]: Gui Yan, Zhang Tianju, and Han Liebao, “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China,” Journal of Sport History 39, no. 2 (2012): 288.
 
 ## Rules, Strategy, and Skill
 {% include images/figure.html
