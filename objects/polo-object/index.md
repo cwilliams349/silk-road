@@ -4,7 +4,7 @@ title: "Sports on the Silk Road"
 layout: base
 header-image: images-copy/Polo.jpg
 thumbnail: images-copy/Polo.jpg
-summary: The image is of a polo painting
+summary: The image is of a polo painting.
 geo: [38.085, 46.286]
 placename: Iran, Tabriz
 tags: polo, painting, iran

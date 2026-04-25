@@ -4,7 +4,7 @@ title: "Sports on the Silk Road"
 layout: base
 header-image: images/wrestlers-weight.jpeg
 thumbnail: images/wrestlers-weight.jpeg
-summary: This object is a wrestler's weight
+summary: This object is a wrestler's weight.
 geo: [34.051, 71.617]
 placename: Gandhara
 tags: wrestler, weight, Gandhara
