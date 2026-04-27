@@ -18,7 +18,7 @@ The first object is a handscroll painting that shows a group of figures playing 
 ## Rules, Strategy, and Skill
 {% include images/figure.html
 class="right"
-width="48%"
+width="75%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
 image-path="images/Chui wan painting 2.jpg"
 %}
