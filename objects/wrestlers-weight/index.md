@@ -55,5 +55,5 @@ Wrestling itself also supports that broader connection. The sport appears in mul
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Di Castro, A. A. (2007). Of Handles and Names: Remarks on Wrestlers’ Weights. East and West, 57(1/4), 367–376. http://www.jstor.org/stable/29757734 
+- Di Castro, A. A. (2003). A Late Gandharan Wrestlers’ Weight. East and West, 53(1/4), 257–265. http://www.jstor.org/stable/29757580 

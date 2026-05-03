@@ -57,5 +57,5 @@ The connection becomes even stronger when considering how chui wan may relate to
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Yan, Gui, et al. "The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming   Dynasties of Ancient China." Journal of Sport History, vol. 39 no. 2, 2012, p. 283-297. https://cdm17103.contentdm.oclc.org/digital/collection/p17103coll10/id/14107. 
+- Wertmann, P., Chen, X., Li, X., Xu, D., Tarasov, P. E., & Wagner, M. (2020). New evidence for ball games in Eurasia from ca. 3000-year-old Yanghai tombs in the Turfan depression of northwest China. Journal of Archaeological Science: Reports, 34(Part B), 102576. https://doi.org/10.1016/j.jasrep.2020.102576. 

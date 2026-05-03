@@ -61,5 +61,5 @@ Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut i
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Otsuka, N. (2006). Falconry: Tradition and acculturation. International Journal of Sport and Health Science, 4(Special_Issue_2), 198–207. https://doi.org/10.5432/ijshs.4.198 
+- MaMing R, Zhao X. M., Xu G. H., Caiwu J., Zhang T., Ding P. and Xu F. (2014). Raptor Conservation and Culture in the West of China. Ela Journal 3(1):23-29. 
