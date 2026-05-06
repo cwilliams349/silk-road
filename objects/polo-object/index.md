@@ -20,7 +20,7 @@ The fourth object is a manuscript painting titled “Siyavush Plays Polo before 
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+caption=""Siyavush Plays Polo before Afrasiyab" from the Shahnama [Source](https://www.metmuseum.org/art/collection/search/452135)"
 image-path="images-copy/Polo.jpg"
 %}
 
