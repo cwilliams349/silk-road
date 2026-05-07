@@ -46,7 +46,7 @@ The Silk Road connection becomes clearer when considering where these objects ha
 This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
 
 ## Wrestling in a Silk Road Context
-{% include images/figure.html class="right" width="60%" caption="Reverse of the weight depicting a wrestler's scene. [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/han-coin-two-sides-violet.png" %}
+{% include images/figure.html class="right" width="60%" caption="Reverse of the weight depicting a wrestler's scene. [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/Opposite Side of Weight.jpeg %}
 
 DOWNLOAD AND UPLOAD THE REVERSE SCENE OF THE WEIGHT FOR SECOND PHOTO. AND COPY IMAGE PATH
 
