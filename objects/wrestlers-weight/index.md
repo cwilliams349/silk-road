@@ -18,7 +18,7 @@ The third object is a stone wrestler’s weight decorated with an image of Herak
 [^1]: Angelo Andrea Di Castro, “Of Handles and Names: Remarks on Wrestlers’ Weights,” East and West 57, no. 1/4 (2007): 367.
 
 ## Training, Use, and Physical Practice
-{% include images/figure.html class="right" width="48%" caption="Wrestler's weight with Hercules and the Nemean Lion. Source: The Metropolitan Museum of Art." image-path="images/wrestlers-weight.jpeg" %}
+{% include images/figure.html class="right" width="48%" caption="Wrestler's weight with Hercules and the Nemean Lion [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/wrestlers-weight.jpeg" %}
 
 Looking more closely at the physical design helps clarify how the object was actually used. The handles were shaped to allow a firm grip, which made it possible to lift the weight repeatedly during training. Di Castro describes similar examples as being designed specifically “to enable a firm grip and lifting,” which points to repeated physical use rather than occasional handling.[^2] That detail is important because it shows that the object was part of a training routine rather than just a representation of athletic culture. A wrestler would likely have used a weight like this multiple times in order to build strength and endurance, meaning that the object was directly connected to the process of preparing for competition. The presence of wear on some examples also supports that idea, since it suggests that the weights were actively used over time rather than preserved in perfect condition.[^3] In that sense, the object reflects the physical side of sport, where training and repetition are just as important as the competition itself. 
 
