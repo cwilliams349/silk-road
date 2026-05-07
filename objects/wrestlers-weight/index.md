@@ -41,7 +41,7 @@ The Silk Road connection becomes clearer when considering where these objects ha
 This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
 
 ## Wrestling in a Silk Road Context
-{% include images/figure.html class="right" width="60%" caption="Reverse of the weight depicting a wrestler's scene. [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/Opposite Side of Weight.jpeg %}
+{% include images/figure.html class="right" width="60%" caption="Reverse of the weight depicting a wrestler's scene. [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/Opposite Side of Weight.jpeg" %}
 
 Wrestling itself also supports that broader connection. The sport appears in multiple regions connected by the Silk Road and remained an important part of physical culture over long periods of time. Ubaidulloev describes wrestling as one of the traditional sports of Central Asia, emphasizing its continuity and importance across different historical periods.[^7] That continuity suggests that wrestling was not just a local activity, but part of a shared tradition that moved and adapted across regions. When the object is viewed in that context, the wrestler’s weight represents more than just a tool for exercise. It reflects how athletes trained, how cultural ideas were expressed through imagery, and how both of those elements circulated within a larger network of exchange. The weight shows that sport on the Silk Road was not only about competition, but also about preparation, meaning, and the movement of practices across different societies. 
 
