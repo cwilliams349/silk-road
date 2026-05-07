@@ -17,12 +17,7 @@ The fourth object is a manuscript painting titled “Siyavush Plays Polo before 
 
 
 ## Competition, Skill, and Structured Play
-{% include images/figure.html
-class="right"
-width="48%"
-caption="Siyavush Plays Polo before Afrasiyab" from the Shahnama [Source](https://www.metmuseum.org/art/collection/search/452135)"
-image-path="images-copy/Polo.jpg"
-%}
+{% include figure.html class="right" width="48%" caption="Siyavush Plays Polo before Afrasiyab from the Shahnama. Source: The Metropolitan Museum of Art." image-path="images-copy/Polo.jpg" %}
 
 The story connected to the image reinforces that idea. Siyavush asks to have Iranian players on his team because they would compete more seriously, which suggests that effort and skill were important parts of the game.[^1] The emphasis on fair competition and strong opponents shows that the match was taken seriously and that performance actually mattered. That detail makes the scene feel less like entertainment and more like a test of ability, which lines up with how polo shows up in other historical sources. Research on equestrian sports in Islamic art supports that interpretation, since polo is described as one of the most well-known and widely represented horse sports in the Islamic world, especially in Persian manuscript painting.[^2] These images often show multiple riders, clearly defined teams, and a playing space that resembles a marked field, all of which point to a level of organization that goes beyond casual play.[^3] The painting of Siyavush fits directly into that tradition, with players positioned in a way that suggests movement, coordination, and competition rather than randomness. It also starts to feel like something that would be judged or evaluated, not just participated in, since the whole setup points toward players actually trying to outperform each other.[^4] 
 
