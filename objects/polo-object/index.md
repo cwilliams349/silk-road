@@ -20,7 +20,7 @@ The fourth object is a manuscript painting titled “Siyavush Plays Polo before 
 {% include images/figure.html
 class="right"
 width="48%"
-caption=""Siyavush Plays Polo before Afrasiyab" from the Shahnama [Source](https://www.metmuseum.org/art/collection/search/452135)"
+caption="Siyavush Plays Polo before Afrasiyab" from the Shahnama [Source](https://www.metmuseum.org/art/collection/search/452135)"
 image-path="images-copy/Polo.jpg"
 %}
 
