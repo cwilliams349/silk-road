@@ -34,10 +34,9 @@ Another important aspect of falconry is its connection to elite culture. While h
 
 [^4]: MaMing et al., “Raptor Conservation and Culture,” 24.
 ## Falconry in a Silk Road Context
-In that sense, the painting represents more than just a moment of hunting. It reflects a structured and skill-based activity that required training, coordination, and social organization. At the same time, the spread of falconry across different regions connects it directly to the movement of ideas and practices along the Silk Road. Falconry shows how a single activity could develop in one area and then be carried across cultures, where it continued to evolve while still maintaining its core features. 
-
 {% include typography/aside.html class="right" text="
 Falconry shows how a single activity could develop in one area and then be carried across cultures, where it continued to evolve while still maintaining its core features." %}
+In that sense, the painting represents more than just a moment of hunting. It reflects a structured and skill-based activity that required training, coordination, and social organization. At the same time, the spread of falconry across different regions connects it directly to the movement of ideas and practices along the Silk Road. Falconry shows how a single activity could develop in one area and then be carried across cultures, where it continued to evolve while still maintaining its core features. 
 
 ---
 
