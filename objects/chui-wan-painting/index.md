@@ -19,12 +19,7 @@ The first object is a handscroll painting that shows a group of figures playing 
 
 ## Rules, Strategy, and Skill
 That sense of structure becomes clearer when looking at how chui wan was actually played. According to Yan, Zhang, and Han, the game included defined rules, equipment, and strategies, all of which were recorded in the historical text Wan Jing. [^2] The existence of a written guide is important because it shows that the game had reached a level of development where it needed to be standardized and taught. 
-{% include images/figure.html
-class="right"
-width="100%"
-caption="Women in court playing chuiwan. [Source](https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00004405)"
-image-path="images/Chui wan painting 2.jpg"
-%}
+{% include images/figure.html class="right" width="50%" caption="Clubs used for chui wan. [Source](https://www.chinadaily.com.cn/photo/2006-04/26/content_577665.htm)" image-path="images/second chui wan image.jpg" %}
 Players used different types of clubs depending on the situation, which meant that they had to make decisions about technique rather than simply repeating the same motion.[^3] The game also required aiming for specific targets or holes, which introduced a level of precision and control.[^4] These details show that success depended on practice and skill, which are key characteristics of a sport. The same source emphasizes that players had to consider terrain and shot selection, which adds another layer of complexity and reinforces the idea that the game was highly developed.[^5]
 
 [^2]: Yan, Zhang, and Han, “The Study of Chui Wan,” 283–284. 
@@ -57,9 +52,12 @@ The broader Silk Road context helps explain why the object matters beyond its im
 
 
 The connection becomes even stronger when considering how chui wan may relate to other sports. The same source suggests that the game could have been influenced by earlier activities such as polo, which spread across Central Asia and into China.[^10] 
-
-{% include images/figure.html class="right" width="60%" caption="Clubs used for chui wan. [Source](https://www.chinadaily.com.cn/photo/2006-04/26/content_577665.htm)" image-path="images/second chui wan image.jpg" %}
-
+{% include images/figure.html
+class="right"
+width="100%"
+caption="Women in court playing chuiwan. [Source](https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00004405)"
+image-path="images/Chui wan painting 2.jpg"
+%}
 That relationship shows how sports could evolve as they moved across regions, adapting to new environments while maintaining certain core features. In that sense, the handscroll represents more than a single moment of leisure. It reflects how organized sport developed within a larger network of cultural exchange, where ideas about competition, skill, and structure were shaped by the movement of people and practices along the Silk Road. 
 
 [^10]: Yan, Zhang, and Han, “The Study of Chui Wan,” 284.
