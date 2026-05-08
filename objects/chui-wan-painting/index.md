@@ -18,7 +18,7 @@ The first object is a handscroll painting that shows a group of figures playing 
 [^1]: Gui Yan, Zhang Tianju, and Han Liebao, “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China,” Journal of Sport History 39, no. 2 (2012): 288.
 
 ## Rules, Strategy, and Skill
-That sense of structure becomes clearer when looking at how chui wan was actually played. According to Yan, Zhang, and Han, the game included defined rules, equipment, and strategies, all of which were recorded in the historical text Wan Jing. [^2] The existence of a written guide is important because it shows that the game had reached a level of development where it needed to be standardized and taught. 
+That sense of structure becomes clearer when looking at how chui wan was actually played. According to Yan, Zhang, and Han, the game included defined rules, equipment, and strategies, all of which were recorded in the historical text Wan Jing.[^2] The existence of a written guide is important because it shows that the game had reached a level of development where it needed to be standardized and taught. 
 {% include images/figure.html class="right" width="50%" caption="Chui wan clubs and balls on display, showing the different equipment that players used and the level of structure behind the game. [Source](https://www.chinadaily.com.cn/photo/2006-04/26/content_577665.htm)" image-path="images/second chui wan image.jpg" %}
 Players used different types of clubs depending on the situation, which meant that they had to make decisions about technique rather than simply repeating the same motion.[^3] The game also required aiming for specific targets or holes, which introduced a level of precision and control.[^4] These details show that success depended on practice and skill, which are key characteristics of a sport. The same source emphasizes that players had to consider terrain and shot selection, which adds another layer of complexity and reinforces the idea that the game was highly developed.[^5]
 
@@ -28,7 +28,7 @@ Players used different types of clubs depending on the situation, which meant th
 
 [^4]: Yan, Zhang, and Han, “The Study of Chui Wan,” 292.
 
-[^5]:Yan, Zhang, and Han, “The Study of Chui Wan,” 292–293.
+[^5]: Yan, Zhang, and Han, “The Study of Chui Wan,” 292–293.
  
 
 ## Elite Participation and Social Setting

@@ -28,8 +28,8 @@ Looking more closely at the physical design helps clarify how the object was act
 
 ## Mythology, Strength, and Cultural Meaning
 {% include typography/aside.html class="right" text="
-The image reinforces the purpose of the object by linking physical training to cultural ideals of power and heroism." %}
-The carved image of Herakles adds another layer to how the object can be understood. Even though the lion appears calmer than expected, the scene still references one of the hero’s most well-known labors, which connects the object to ideas of strength and endurance. Di Castro notes that similar imagery appears in regions like Gandhara and northern India, where Greek, Persian, and South Asian influences overlapped.[^4] That context matters because it shows that the decoration is not random, but part of a broader visual tradition. The image reinforces the purpose of the object by linking physical training to cultural ideals of power and heroism. A person using the weight was not only building strength, but also engaging with an image that represented what that strength meant within a larger cultural framework. 
+The carved scene reinforces the purpose of the object by linking physical training to cultural ideals of power and heroism." %}
+The carved scene of Herakles adds another layer to how the object can be understood. Even though the lion appears calmer than expected, the scene still references one of the hero’s most well-known labors, which connects the object to ideas of strength and endurance. Di Castro notes that similar imagery appears in regions like Gandhara and northern India, where Greek, Persian, and South Asian influences overlapped.[^4] That context matters because it shows that the decoration is not random, but part of a broader visual tradition. The carved scene reinforces the purpose of the object by linking physical training to cultural ideals of power and heroism. A person using the weight was not only building strength, but also engaging with a scene that represented what that strength meant within a larger cultural framework. 
 
 
 [^4]: Di Castro, “A Late Gandharan Wrestlers’ Weight,” 262–263.
@@ -37,7 +37,7 @@ The carved image of Herakles adds another layer to how the object can be underst
 ## Regional Spread and Cultural Exchange
 The Silk Road connection becomes clearer when considering where these objects have been found. Di Castro compares examples and fragments from places such as Gandhara, Mathura, and the Kathmandu Valley, which shows that similar types of wrestler’s weights appeared across multiple regions rather than being limited to a single location.[^5] That distribution suggests that the practice of wrestling, along with the tools used for training, was shared across connected areas. At the same time, the article cautions against identifying these objects simply as Greek “halteres,” which is important because it shifts the focus away from a single origin and toward a more regional pattern of development shaped by interaction.[^6] The combination of Greek imagery with local forms of use reflects the kind of cultural blending that is often associated with Silk Road exchange. 
 
-[^5]: Di Castro, “Of Handles and Names,” 368
+[^5]: Di Castro, “Of Handles and Names,” 368.
 
 [^6]: Di Castro, “Of Handles and Names,” 371.
 
@@ -54,3 +54,4 @@ Wrestling itself also supports that broader connection. The sport appears in mul
 
 - Di Castro, A. A. (2007). Of Handles and Names: Remarks on Wrestlers’ Weights. East and West, 57(1/4), 367–376. http://www.jstor.org/stable/29757734 
 - Di Castro, A. A. (2003). A Late Gandharan Wrestlers’ Weight. East and West, 53(1/4), 257–265. http://www.jstor.org/stable/29757580 
+- Ubaidulloev, Zafar. “The History and Characteristics of Traditional Sports in Central Asia: Tajikistan.” The Bulletin of the Faculty of Health and Sport Sciences 38 (2015): 43–58.  
