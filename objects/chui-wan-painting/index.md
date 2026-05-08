@@ -20,7 +20,7 @@ The first object is a handscroll painting that shows a group of figures playing 
 ## Rules, Strategy, and Skill
 {% include images/figure.html
 class="right"
-width="75%"
+width="100%"
 caption="Women in court playing chuiwan. [Source](https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00004405)"
 image-path="images/Chui wan painting 2.jpg"
 %}
