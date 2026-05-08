@@ -37,10 +37,9 @@ That sense of structure becomes clearer when looking at how chui wan was actuall
  
 
 ## Elite Participation and Social Setting
-Another important aspect of chui wan is who was playing it. Many historical descriptions and visual depictions show that the game was most commonly associated with elite groups. Yan notes that it was especially popular among “royal and aristocratic people or other rich people from the upper classes,” which suggests that participation required both time and resources.[^6] In some cases (like in this handscroll), attendants are shown carrying equipment or assisting players, which further highlights the social hierarchy connected to the activity.[^7] The setting of the handscroll reflects that environment, since the game takes place in a controlled and well-maintained space rather than an open or public area. The structure of the game and the setting together suggest that chui wan was not just about recreation, but also about displaying refinement, discipline, and status.
-
 {% include typography/aside.html class="right" text="
 The structure of the game and the setting together suggest that chui wan was not just about recreation, but also about displaying refinement, discipline, and status." %}
+Another important aspect of chui wan is who was playing it. Many historical descriptions and visual depictions show that the game was most commonly associated with elite groups. Yan notes that it was especially popular among “royal and aristocratic people or other rich people from the upper classes,” which suggests that participation required both time and resources.[^6] In some cases (like in this handscroll), attendants are shown carrying equipment or assisting players, which further highlights the social hierarchy connected to the activity.[^7] The setting of the handscroll reflects that environment, since the game takes place in a controlled and well-maintained space rather than an open or public area. The structure of the game and the setting together suggest that chui wan was not just about recreation, but also about displaying refinement, discipline, and status.
 
 [^6]: Yan, Zhang, and Han, “The Study of Chui Wan,” 290.
 
