@@ -2,7 +2,7 @@
 author: Caden Williams
 title: "Falconry Fan Painting"
 layout: base
-header-image: images/DP153514.jpg
+header-image:  images/falconry header .png
 thumbnail: images/DP153514.jpg
 summary: A fan painting showing nomadic horsemen hunting with falcons, a skill-based practice connected to mobility, training, and elite culture.
 geo: [30.274, 120.153]
