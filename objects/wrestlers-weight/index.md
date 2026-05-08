@@ -1,10 +1,10 @@
 ---
 author: Caden Williams
-title: "Sports on the Silk Road"
+title: "Wrestler's Weight"
 layout: base
-header-image: images/wrestlers-weight.jpeg
+header-image: images/wrestlers weight banner.jpg
 thumbnail: images/wrestlers-weight.jpeg
-summary: This object is a wrestler's weight.
+summary: A wrestler’s weight showing how athletic training could be connected to physical strength, heroic imagery, and broader Silk Road exchange.
 geo: [34.051, 71.617]
 placename: Gandhara
 tags: wrestler, weight, Gandhara
@@ -18,7 +18,7 @@ The third object is a stone wrestler’s weight decorated with an image of Herak
 [^1]: Angelo Andrea Di Castro, “Of Handles and Names: Remarks on Wrestlers’ Weights,” East and West 57, no. 1/4 (2007): 367.
 
 ## Training, Use, and Physical Practice
-{% include images/figure.html class="right" width="48%" caption="Wrestler's weight with Hercules and the Nemean Lion [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/wrestlers-weight.jpeg" %}
+{% include images/figure.html class="right" width="48%" caption="Wrestler’s weight with Hercules and the Nemean Lion carved on the front. [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/wrestlers-weight.jpeg" %}
 
 Looking more closely at the physical design helps clarify how the object was actually used. The handles were shaped to allow a firm grip, which made it possible to lift the weight repeatedly during training. Di Castro describes similar examples as being designed specifically “to enable a firm grip and lifting,” which points to repeated physical use rather than occasional handling.[^2] That detail is important because it shows that the object was part of a training routine rather than just a representation of athletic culture. A wrestler would likely have used a weight like this multiple times in order to build strength and endurance, meaning that the object was directly connected to the process of preparing for competition. The presence of wear on some examples also supports that idea, since it suggests that the weights were actively used over time rather than preserved in perfect condition.[^3] In that sense, the object reflects the physical side of sport, where training and repetition are just as important as the competition itself. 
 
@@ -29,6 +29,9 @@ Looking more closely at the physical design helps clarify how the object was act
 ## Mythology, Strength, and Cultural Meaning
 The carved image of Herakles adds another layer to how the object can be understood. Even though the lion appears calmer than expected, the scene still references one of the hero’s most well-known labors, which connects the object to ideas of strength and endurance. Di Castro notes that similar imagery appears in regions like Gandhara and northern India, where Greek, Persian, and South Asian influences overlapped.[^4] That context matters because it shows that the decoration is not random, but part of a broader visual tradition. The image reinforces the purpose of the object by linking physical training to cultural ideals of power and heroism. A person using the weight was not only building strength, but also engaging with an image that represented what that strength meant within a larger cultural framework. 
 
+{% include typography/aside.html class="right" text="
+The image reinforces the purpose of the object by linking physical training to cultural ideals of power and heroism." %}
+
 [^4]: Di Castro, “A Late Gandharan Wrestlers’ Weight,” 262–263.
 
 ## Regional Spread and Cultural Exchange
@@ -37,11 +40,9 @@ The Silk Road connection becomes clearer when considering where these objects ha
 [^5]: Di Castro, “Of Handles and Names,” 368
 
 [^6]: Di Castro, “Of Handles and Names,” 371.
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
 
 ## Wrestling in a Silk Road Context
-{% include images/figure.html class="right" width="60%" caption="Reverse of the weight depicting a wrestler's scene. [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/Opposite Side of Weight.jpeg" %}
+{% include images/figure.html class="right" width="60%" caption="Reverse side of the wrestler’s weight, showing a wrestling scene and the carved handgrips. [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/Opposite Side of Weight.jpeg" %}
 
 Wrestling itself also supports that broader connection. The sport appears in multiple regions connected by the Silk Road and remained an important part of physical culture over long periods of time. Ubaidulloev describes wrestling as one of the traditional sports of Central Asia, emphasizing its continuity and importance across different historical periods.[^7] That continuity suggests that wrestling was not just a local activity, but part of a shared tradition that moved and adapted across regions. When the object is viewed in that context, the wrestler’s weight represents more than just a tool for exercise. It reflects how athletes trained, how cultural ideas were expressed through imagery, and how both of those elements circulated within a larger network of exchange. The weight shows that sport on the Silk Road was not only about competition, but also about preparation, meaning, and the movement of practices across different societies. 
 
