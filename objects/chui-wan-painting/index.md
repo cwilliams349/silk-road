@@ -49,15 +49,13 @@ The broader Silk Road context helps explain why the object matters beyond its im
 [^9]: Wertmann et al., “New Evidence for Ball Games in Eurasia,” 10.
 
 ## Connections to Polo and Cultural Exchange
-
-
-The connection becomes even stronger when considering how chui wan may relate to other sports. The same source suggests that the game could have been influenced by earlier activities such as polo, which spread across Central Asia and into China.[^10] 
 {% include images/figure.html
 class="right"
 width="100%"
 caption="Women in court playing chuiwan. [Source](https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00004405)"
 image-path="images/Chui wan painting 2.jpg"
 %}
+The connection becomes even stronger when considering how chui wan may relate to other sports. The same source suggests that the game could have been influenced by earlier activities such as polo, which spread across Central Asia and into China.[^10] 
 That relationship shows how sports could evolve as they moved across regions, adapting to new environments while maintaining certain core features. In that sense, the handscroll represents more than a single moment of leisure. It reflects how organized sport developed within a larger network of cultural exchange, where ideas about competition, skill, and structure were shaped by the movement of people and practices along the Silk Road. 
 
 [^10]: Yan, Zhang, and Han, “The Study of Chui Wan,” 284.
