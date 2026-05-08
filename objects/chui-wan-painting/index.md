@@ -21,7 +21,7 @@ The first object is a handscroll painting that shows a group of figures playing 
 That sense of structure becomes clearer when looking at how chui wan was actually played. According to Yan, Zhang, and Han, the game included defined rules, equipment, and strategies, all of which were recorded in the historical text Wan Jing. [^2] The existence of a written guide is important because it shows that the game had reached a level of development where it needed to be standardized and taught. Players used different types of clubs depending on the situation, which meant that they had to make decisions about technique rather than simply repeating the same motion.[^3] The game also required aiming for specific targets or holes, which introduced a level of precision and control.[^4] These details show that success depended on practice and skill, which are key characteristics of a sport. The same source emphasizes that players had to consider terrain and shot selection, which adds another layer of complexity and reinforces the idea that the game was highly developed.[^5]
 {% include images/figure.html
 class="right"
-width="100%"
+width="75%"
 caption="Women in court playing chuiwan. [Source](https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00004405)"
 image-path="images/Chui wan painting 2.jpg"
 %}
