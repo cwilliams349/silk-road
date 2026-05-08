@@ -21,7 +21,7 @@ The first object is a handscroll painting that shows a group of figures playing 
 That sense of structure becomes clearer when looking at how chui wan was actually played. According to Yan, Zhang, and Han, the game included defined rules, equipment, and strategies, all of which were recorded in the historical text Wan Jing. [^2] The existence of a written guide is important because it shows that the game had reached a level of development where it needed to be standardized and taught. 
 {% include images/figure.html
 class="right"
-width="75%"
+width="50%"
 caption="Women in court playing chuiwan. [Source](https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00004405)"
 image-path="images/Chui wan painting 2.jpg"
 %}
