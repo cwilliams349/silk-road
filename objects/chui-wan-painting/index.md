@@ -64,5 +64,5 @@ That relationship shows how sports could evolve as they moved across regions, ad
 
 ## Bibliography
 
-- Yan, Gui, et al. "The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming   Dynasties of Ancient China." Journal of Sport History, vol. 39 no. 2, 2012, p. 283-297. https://cdm17103.contentdm.oclc.org/digital/collection/p17103coll10/id/14107. 
-- Wertmann, P., Chen, X., Li, X., Xu, D., Tarasov, P. E., & Wagner, M. (2020). New evidence for ball games in Eurasia from ca. 3000-year-old Yanghai tombs in the Turfan depression of northwest China. Journal of Archaeological Science: Reports, 34(Part B), 102576. https://doi.org/10.1016/j.jasrep.2020.102576. 
+- Yan, Gui, Zhang Tianju, and Han Liebao. “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China.” Journal of Sport History 39, no. 2 (2012): 283–297. https://cdm17103.contentdm.oclc.org/digital/collection/p17103coll10/id/14107.
+- Wertmann, Patrick, Xinyong Chen, Xiao Li, Dongliang Xu, Pavel E. Tarasov, and Mayke Wagner. “New Evidence for Ball Games in Eurasia from ca. 3000-Year-Old Yanghai Tombs in the Turfan Depression of Northwest China.” Journal of Archaeological Science: Reports 34 (2020): 102576. https://doi.org/10.1016/j.jasrep.2020.102576.

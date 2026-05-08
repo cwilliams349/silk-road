@@ -91,7 +91,7 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 ## Bibliography
 
-- Yan, Gui, et al. "The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming   Dynasties of Ancient China." Journal of Sport History, vol. 39 no. 2, 2012, p. 283-297. https://cdm17103.contentdm.oclc.org/digital/collection/p17103coll10/id/14107. 
-- Di Castro, A. A. (2007). Of Handles and Names: Remarks on Wrestlers’ Weights. East and West, 57(1/4), 367–376. http://www.jstor.org/stable/29757734
-- Otsuka, N. (2006). Falconry: Tradition and acculturation. International Journal of Sport and Health Science, 4(Special_Issue_2), 198–207. https://doi.org/10.5432/ijshs.4.198
-- Gierlichs, Joachim. “Horse Games in Islamic Art.” In Horse Games – Horse Sports: From Traditional Oriental Games to Modern and Olympic Sport, edited by A. Amendt and C. Wacker. Qatar Olympic & Sports Museum, 2012.
+- Yan, Gui, Zhang Tianju, and Han Liebao. “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China.” Journal of Sport History 39, no. 2 (2012): 283–297. https://cdm17103.contentdm.oclc.org/digital/collection/p17103coll10/id/14107. 
+- Di Castro, Angelo Andrea. “Of Handles and Names: Remarks on Wrestlers’ Weights.” East and West 57, no. 1/4 (2007): 367–76. http://www.jstor.org/stable/29757734.
+- Otsuka, Noriko. “Falconry: Tradition and Acculturation.” International Journal of Sport and Health Science 4, no. Special Issue 2 (2006): 198–207. https://doi.org/10.5432/ijshs.4.198. 
+- Gierlichs, Joachim. “Horse Games in Islamic Art.” In Horse Games – Horse Sports: From Traditional Oriental Games to Modern and Olympic Sport, edited by Andreas Amendt and Christian Wacker. Qatar Olympic & Sports Museum, 2012.

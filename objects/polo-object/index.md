@@ -44,6 +44,6 @@ This object also helps show how sports moved and developed across the Silk Road.
 
 ## Bibliography
 
-- Gierlichs, Joachim. “Horse Games in Islamic Art.” In Horse Games – Horse Sports: From Traditional Oriental Games to Modern and Olympic Sport, edited by A. Amendt and C. Wacker. Qatar Olympic & Sports Museum, 2012. 
+- Gierlichs, Joachim. “Horse Games in Islamic Art.” In Horse Games – Horse Sports: From Traditional Oriental Games to Modern and Olympic Sport, edited by Andreas Amendt and Christian Wacker. Qatar Olympic & Sports Museum, 2012.  
 - The Metropolitan Museum of Art. “Siyavush Plays Polo before Afrasiyab.” Folio 180v from the Shahnama of Shah Tahmasp. Accessed April 19, 2026. https://www.metmuseum.org/art/collection/search/452135. 
-- Ubaidulloev, Zubaidullo. “The History and Characteristics of Traditional Sports in Central Asia: Tajikistan.” Bulletin of the Faculty of Health and Sport Sciences 38 (2015): 43–58. 
+- Ubaidulloev, Zafar. “The History and Characteristics of Traditional Sports in Central Asia: Tajikistan.” The Bulletin of the Faculty of Health and Sport Sciences 38 (2015): 43–58. 

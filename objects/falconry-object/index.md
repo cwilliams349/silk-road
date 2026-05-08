@@ -42,5 +42,5 @@ In that sense, the painting represents more than just a moment of hunting. It re
 
 ## Bibliography
 
-- Otsuka, N. (2006). Falconry: Tradition and acculturation. International Journal of Sport and Health Science, 4(Special_Issue_2), 198–207. https://doi.org/10.5432/ijshs.4.198 
-- MaMing R, Zhao X. M., Xu G. H., Caiwu J., Zhang T., Ding P. and Xu F. (2014). Raptor Conservation and Culture in the West of China. Ela Journal 3(1):23-29. 
+- Otsuka, Noriko. “Falconry: Tradition and Acculturation.” International Journal of Sport and Health Science 4, no. Special Issue 2 (2006): 198–207. https://doi.org/10.5432/ijshs.4.198.  
+- MaMing, R., X. M. Zhao, G. H. Xu, J. Caiwu, T. Zhang, P. Ding, and F. Xu. “Raptor Conservation and Culture in the West of China.” Ela Journal 3, no. 1 (2014): 23–29. 
