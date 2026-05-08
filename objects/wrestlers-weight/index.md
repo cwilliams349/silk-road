@@ -2,7 +2,7 @@
 author: Caden Williams
 title: "Wrestler's Weight"
 layout: base
-header-image: images/wrestlers weight banner.jpg
+header-image: images/real-wrestlers-weight-banner.jpg
 thumbnail: images/wrestlers-weight.jpeg
 summary: A wrestler’s weight showing how athletic training could be connected to physical strength, heroic imagery, and broader Silk Road exchange.
 geo: [34.051, 71.617]
@@ -27,10 +27,10 @@ Looking more closely at the physical design helps clarify how the object was act
 [^3]: Di Castro, “A Late Gandharan Wrestlers’ Weight,” 259.
 
 ## Mythology, Strength, and Cultural Meaning
-The carved image of Herakles adds another layer to how the object can be understood. Even though the lion appears calmer than expected, the scene still references one of the hero’s most well-known labors, which connects the object to ideas of strength and endurance. Di Castro notes that similar imagery appears in regions like Gandhara and northern India, where Greek, Persian, and South Asian influences overlapped.[^4] That context matters because it shows that the decoration is not random, but part of a broader visual tradition. The image reinforces the purpose of the object by linking physical training to cultural ideals of power and heroism. A person using the weight was not only building strength, but also engaging with an image that represented what that strength meant within a larger cultural framework. 
-
 {% include typography/aside.html class="right" text="
 The image reinforces the purpose of the object by linking physical training to cultural ideals of power and heroism." %}
+The carved image of Herakles adds another layer to how the object can be understood. Even though the lion appears calmer than expected, the scene still references one of the hero’s most well-known labors, which connects the object to ideas of strength and endurance. Di Castro notes that similar imagery appears in regions like Gandhara and northern India, where Greek, Persian, and South Asian influences overlapped.[^4] That context matters because it shows that the decoration is not random, but part of a broader visual tradition. The image reinforces the purpose of the object by linking physical training to cultural ideals of power and heroism. A person using the weight was not only building strength, but also engaging with an image that represented what that strength meant within a larger cultural framework. 
+
 
 [^4]: Di Castro, “A Late Gandharan Wrestlers’ Weight,” 262–263.
 
@@ -42,7 +42,7 @@ The Silk Road connection becomes clearer when considering where these objects ha
 [^6]: Di Castro, “Of Handles and Names,” 371.
 
 ## Wrestling in a Silk Road Context
-{% include images/figure.html class="right" width="60%" caption="Reverse side of the wrestler’s weight, showing a wrestling scene and the carved handgrips. [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/Opposite Side of Weight.jpeg" %}
+{% include images/figure.html class="right" width="48%" caption="Reverse side of the wrestler’s weight, showing a wrestling scene and the carved handgrips. [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/Opposite Side of Weight.jpeg" %}
 
 Wrestling itself also supports that broader connection. The sport appears in multiple regions connected by the Silk Road and remained an important part of physical culture over long periods of time. Ubaidulloev describes wrestling as one of the traditional sports of Central Asia, emphasizing its continuity and importance across different historical periods.[^7] That continuity suggests that wrestling was not just a local activity, but part of a shared tradition that moved and adapted across regions. When the object is viewed in that context, the wrestler’s weight represents more than just a tool for exercise. It reflects how athletes trained, how cultural ideas were expressed through imagery, and how both of those elements circulated within a larger network of exchange. The weight shows that sport on the Silk Road was not only about competition, but also about preparation, meaning, and the movement of practices across different societies. 
 
