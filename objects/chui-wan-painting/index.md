@@ -39,6 +39,9 @@ That sense of structure becomes clearer when looking at how chui wan was actuall
 ## Elite Participation and Social Setting
 Another important aspect of chui wan is who was playing it. Many historical descriptions and visual depictions show that the game was most commonly associated with elite groups. Yan notes that it was especially popular among “royal and aristocratic people or other rich people from the upper classes,” which suggests that participation required both time and resources.[^6] In some cases (like in this handscroll), attendants are shown carrying equipment or assisting players, which further highlights the social hierarchy connected to the activity.[^7] The setting of the handscroll reflects that environment, since the game takes place in a controlled and well-maintained space rather than an open or public area. The structure of the game and the setting together suggest that chui wan was not just about recreation, but also about displaying refinement, discipline, and status.
 
+{% include typography/aside.html class="right" text="
+The structure of the game and the setting together suggest that chui wan was not just about recreation, but also about displaying refinement, discipline, and status." %}
+
 [^6]: Yan, Zhang, and Han, “The Study of Chui Wan,” 290.
 
 [^7]: Yan, Zhang, and Han, “The Study of Chui Wan,” 288.
@@ -50,9 +53,6 @@ The broader Silk Road context helps explain why the object matters beyond its im
 [^8]: Patrick Wertmann, Xinyong Chen, Xiao Li, Dongliang Xu, Pavel E. Tarasov, and Mayke Wagner, “New Evidence for Ball Games in Eurasia from ca. 3000-Year-Old Yanghai Tombs in the Turfan Depression of Northwest China,” Journal of Archaeological Science: Reports 34 (2020): 1.
 
 [^9]: Wertmann et al., “New Evidence for Ball Games in Eurasia,” 10.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
 
 ## Connections to Polo and Cultural Exchange
 
