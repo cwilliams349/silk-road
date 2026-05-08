@@ -1,10 +1,10 @@
 ---
 author: Caden Williams
-title: "Sports on the Silk Road"
+title: "Falconry Fan Painting"
 layout: base
 header-image: images/DP153514.jpg
 thumbnail: images/DP153514.jpg
-summary: The image is of Nomads hunting with falcons.
+summary: A fan painting showing nomadic horsemen hunting with falcons, a skill-based practice connected to mobility, training, and elite culture.
 geo: [30.274, 120.153]
 placename: Lin'an
 tags: falcon, hunting, china
@@ -19,7 +19,8 @@ The second object is a fan painting showing nomadic horsemen hunting with falcon
 ## Training, Coordination, and Skill
 {% include images/figure.html class="right" width="48%" caption="Nomads hunting with falcons. [Source](https://www.metmuseum.org/art/collection/search/40094)" image-path="images/DP153514.jpg" %}
 
-Looking at falconry more closely helps explain why the scene appears so organized. Otsuka describes falconry as a “cooperative hunting method,” where both the human and the bird must be trained to respond to one another.[^1] That relationship is important because it means the success of the activity depends on communication and control rather than chance. The bird is not acting independently, and the hunter is not acting alone. Both are part of a system that has to be developed over time. That level of interaction makes falconry feel closer to a sport than simple hunting, since it involves skill, repetition, and technique. The long history of falconry also helps place the image in a broader context. Research on raptor use in western China shows that falconry practices have deep roots in Central Asian and steppe cultures, where hunting with birds of prey was a well-established tradition.[^2] These practices were closely connected to the lifestyle of nomadic groups, who depended on mobility and knowledge of the environment. The presence of horseback riders in the painting reflects that background, since horses were essential for both travel and hunting across the steppe. The combination of horseback riding and falconry suggests a form of activity that required multiple skills at once, reinforcing the idea that it was highly developed. 
+Looking at falconry more closely helps explain why the scene appears so organized. Otsuka describes falconry as a “cooperative hunting method,” where both the human and the bird must be trained to respond to one another.[^1] That relationship is important because it means the success of the activity depends on communication and control rather than chance. The bird is not acting independently, and the hunter is not acting alone. Both are part of a system that has to be developed over time. That level of interaction makes falconry feel closer to a sport than simple hunting, since it involves skill, repetition, and technique. 
+The long history of falconry also helps place the image in a broader context. Research on raptor use in western China shows that falconry practices have deep roots in Central Asian and steppe cultures, where hunting with birds of prey was a well-established tradition.[^2] These practices were closely connected to the lifestyle of nomadic groups, who depended on mobility and knowledge of the environment. The presence of horseback riders in the painting reflects that background, since horses were essential for both travel and hunting across the steppe. The combination of horseback riding and falconry suggests a form of activity that required multiple skills at once, reinforcing the idea that it was highly developed. 
  
 
 [^1]: Noriko Otsuka, “Falconry: Tradition and Acculturation,” International Journal of Sport and Health Science 4 (2006): 198.

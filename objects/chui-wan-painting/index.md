@@ -1,10 +1,10 @@
 ---
 author: Caden Williams
-title: "Sports on the Silk Road"
+title: "Chui Wan Handscroll"
 layout: base
 header-image: images/Chui wan painting 2.jpg
 thumbnail: images/Chui wan painting 2.jpg
-summary: This image is of chinese women playing Chui Wan.
+summary: A handscroll showing figures playing chui wan, a golf-like game connected to skill, rules, and elite leisure in ancient China.
 geo: [31.296, 121.480]
 placename: Shanghai
 tags: chui wan, women, china
