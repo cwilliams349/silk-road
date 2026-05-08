@@ -2,7 +2,7 @@
 author: Caden Williams
 title: "Shahnama Polo Painting"
 layout: base
-header-image: images-copy/possible-polo-banner.jpeg
+header-image: images-copy/potential-polo-banner.jpg
 thumbnail: images-copy/Polo.jpg
 summary: A Shahnama manuscript painting showing Siyavush playing polo before Afrasiyab, connecting the sport to skill, competition, elite status, and Persian literary tradition.
 geo: [38.085, 46.286]
@@ -30,7 +30,7 @@ The story connected to the painting reinforces that idea. Siyavush asks to have 
 
 [^4]: Gierlichs, “Horse Games in Islamic Art,” 46.
 ## Elite Context and Narrative Meaning
-{% include images/figure.html class="right" width="48%" caption="A Persian manuscript scene showing mounted players in a polo match, which helps show how often the sport appeared in elite visual culture. [Source](https://art.thewalters.org/object/W.638.131B/)" image-path="images-copy/second-polo-image.jpg" %}
+{% include images/figure.html class="right" width="48%" caption="A Persian manuscript scene showing mounted players in a polo match, showing how the sport often appeared in elite visual culture. [Source](https://art.thewalters.org/object/W.638.131B/)" image-path="images-copy/second-polo-image.jpg" %}
 The connection to the Shahnama adds another layer to the meaning of the painting. Polo scenes appear frequently in manuscripts of the epic, often showing rulers or elite figures participating in matches.[^5] In that context, the game becomes more than just a sport, since it reflects ideas about leadership, skill, and social status. The presence of Afrasiyab watching the match reinforces that dynamic, because the game is being performed in front of a ruler and becomes a way to display ability and control. Instead of separating sport from politics or power, the painting shows how closely those things were connected, especially in elite settings where performance could carry symbolic meaning beyond the game itself. 
 
 [^5]: Gierlichs, “Horse Games in Islamic Art,” 45.
