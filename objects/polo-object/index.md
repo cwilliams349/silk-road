@@ -2,7 +2,7 @@
 author: Caden Williams
 title: "Shahnama Polo Painting"
 layout: base
-header-image: images-copy/polo-banner-option.png
+header-image: images-copy/come-on-bro.png
 thumbnail: images-copy/Polo.jpg
 summary: A Shahnama manuscript painting showing Siyavush playing polo before Afrasiyab, connecting the sport to skill, competition, elite status, and Persian literary tradition.
 geo: [38.085, 46.286]
