@@ -40,6 +40,12 @@ Another important aspect of chui wan is who was playing it. Many historical desc
 
 [^7]: Yan, Zhang, and Han, “The Study of Chui Wan,” 288.
 
+{% include images/figure.html
+class="right"
+width="100%"
+caption="A handscroll painting showing women playing chui wan, with attendants nearby and players focused on the ball, suggesting a structured and elite setting. [Source](https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00004405)"
+image-path="images/Chui wan painting 2.jpg"
+%}
 
 ## Silk Road Context and Early Ball Games
 The broader Silk Road context helps explain why the object matters beyond its immediate setting. While chui wan is associated with China, the idea of organized ball games was not limited to one region. Archaeological evidence from Central Asia shows that ball games existed as early as the first millennium BCE and were often connected to physical exercise and social interaction.[^8] These earlier games were likely different in form, but they show that structured play was already part of the region’s culture. The same research suggests that ball games were connected to the development of horseback riding and mobility, which places them within a larger network of movement and exchange.[^9] When chui wan is viewed within that broader framework, it can be understood as part of a longer process rather than an isolated development. 
@@ -47,12 +53,6 @@ The broader Silk Road context helps explain why the object matters beyond its im
 [^8]: Patrick Wertmann, Xinyong Chen, Xiao Li, Dongliang Xu, Pavel E. Tarasov, and Mayke Wagner, “New Evidence for Ball Games in Eurasia from ca. 3000-Year-Old Yanghai Tombs in the Turfan Depression of Northwest China,” Journal of Archaeological Science: Reports 34 (2020): 1.
 
 [^9]: Wertmann et al., “New Evidence for Ball Games in Eurasia,” 10.
-{% include images/figure.html
-class="right"
-width="100%"
-caption="A handscroll painting showing women playing chui wan, with attendants nearby and players focused on the ball, suggesting a structured and elite setting. [Source](https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00004405)"
-image-path="images/Chui wan painting 2.jpg"
-%}
 ## Connections to Polo and Cultural Exchange
 The connection becomes even stronger when considering how chui wan may relate to other sports. The same source suggests that the game could have been influenced by earlier activities such as polo, which spread across Central Asia and into China.[^10] 
 That relationship shows how sports could evolve as they moved across regions, adapting to new environments while maintaining certain core features. In that sense, the handscroll represents more than a single moment of leisure. It reflects how organized sport developed within a larger network of cultural exchange, where ideas about competition, skill, and structure were shaped by the movement of people and practices along the Silk Road. 
