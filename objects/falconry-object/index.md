@@ -27,6 +27,7 @@ Looking at falconry more closely helps explain why the scene appears so organize
 
 ## Elite Activity and Cultural Status
 Another important aspect of falconry is its connection to elite culture. While hunting could serve practical purposes, falconry in particular became associated with wealth and status. Falconry often required significant time, training, and resources, which suggests it was not easily accessible to everyone. The presence of multiple riders in the painting also suggests that the activity could involve coordinated group participation rather than a single individual. That kind of setting points to falconry as something that was organized and practiced at a higher level, rather than only being used for basic subsistence. The same source notes that falconry originated in Central Asia and later expanded into China, the Middle East, and other parts of Eurasia.[^3] Because nomadic groups were already highly mobile, they played a major role in carrying these practices across long distances. Additional research confirms that falconry remained culturally significant in western China, showing that it continued to be practiced and adapted over time.[^4] This pattern of movement is important because it shows how activities like falconry were not limited to one place, but instead became part of a shared cultural tradition.
+{% include images/figure.html class="right" width="60%" caption="A prince holding a falcon, showing how falconry could be connected to elite status, training, and display. [Source](https://www.metmuseum.org/art/collection/search/767842)" image-path="images/elite falconry.jpeg" %}
 
 [^3]: Otsuka, “Falconry,” 198.
 
@@ -35,16 +36,7 @@ Another important aspect of falconry is its connection to elite culture. While h
 In that sense, the painting represents more than just a moment of hunting. It reflects a structured and skill-based activity that required training, coordination, and social organization. At the same time, the spread of falconry across different regions connects it directly to the movement of ideas and practices along the Silk Road. Falconry shows how a single activity could develop in one area and then be carried across cultures, where it continued to evolve while still maintaining its core features. 
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+Falconry shows how a single activity could develop in one area and then be carried across cultures, where it continued to evolve while still maintaining its core features." %}
 
 ---
 
