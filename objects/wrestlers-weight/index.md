@@ -10,8 +10,8 @@ placename: Gandhara
 tags: wrestler, weight, Gandhara
   - object
 ---
-
-# A Functional Object With Symbolic Meaning
+# Wrestler's Weight
+## A Functional Object With Symbolic Meaning
 
 The third object is a stone wrestler’s weight decorated with an image of Herakles and the Nemean lion. The rectangular slab includes carved handles on the sides, which were used for gripping and lifting, and the presence of those handles is what makes the object recognizable as a piece of athletic equipment rather than just a carved stone. While the relief draws attention because of its mythological subject, the object itself was designed to be used physically. Angelo Andrea Di Castro explains that the handle is the “diagnostic element” that allows scholars to identify these objects as wrestler’s weights, since it turns what would otherwise be a simple slab into something meant for lifting and training.[^1] The combination of a carved scene and a functional design immediately suggests that the object had both a practical and symbolic purpose. 
 

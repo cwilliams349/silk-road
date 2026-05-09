@@ -10,8 +10,8 @@ placename: Iran, Tabriz
 tags: polo, painting, iran
   - object
 ---
-
-# An Organized Polo Match in the Shahnama
+# Shahnama Polo Painting
+## An Organized Polo Match in the Shahnama
 {% include typography/aside.html class="right" text="
 The painting presents polo not just as something people did for fun, but as a structured and meaningful sport tied to elite culture." %}
 The fourth object is a manuscript painting titled “Siyavush Plays Polo before Afrasiyab,” taken from the Shahnama (Book of Kings) of Shah Tahmasp. The scene shows a group of mounted riders engaged in a polo match, with Siyavush positioned at the center of the composition on a dark horse while other players move around him. Afrasiyab, the Turanian king, watches from a distance. The setting is active but still controlled, with players clearly participating in an organized game rather than a chaotic or informal activity. The painting presents polo not just as something people did for fun, but as a structured and meaningful sport tied to elite culture. 

@@ -10,8 +10,8 @@ placename: Lin'an
 tags: falcon, hunting, china
   - object
 ---
-
-# A Coordinated Hunting Scene on Horseback
+# Falconry Fan Painting
+## A Coordinated Hunting Scene on Horseback
 
 The second object is a fan painting showing nomadic horsemen hunting with falcons. The figures are spread across an open landscape, with several riders holding birds of prey while others appear to be observing or preparing to participate in the hunt. One rider is actively releasing a falcon, while the others remain positioned on horseback, which suggests that the scene captures a coordinated moment within a larger hunting activity rather than something random or isolated. What stands out most in the painting is how controlled and deliberate the activity looks. Falconry is not something that can be done casually, and the way the figures are arranged reflects that. The rider releasing the bird has to manage both the movement of the horse and the timing of the falcon, while the other riders maintain distance and awareness. That level of coordination suggests that each participant has a role, and that the hunt itself follows a structure. Instead of just being about catching prey, the scene reflects a process that depends on training, control, and repeated practice. 
 

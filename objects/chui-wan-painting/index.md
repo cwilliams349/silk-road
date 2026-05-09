@@ -10,8 +10,8 @@ placename: Shanghai
 tags: chui wan, women, china
   - object
 ---
-
-# Introducing the Scene of Chui Wan
+# Chui Wan Handscroll
+## Introducing the Scene of Chui Wan
 
 The first object is a handscroll painting that shows a group of figures playing chui wan, a golf-like game that was popular in China during the Song, Yuan, and Ming dynasties. Scenes like this are described in historical sources as taking place in controlled, almost staged environments, where players stood on open ground with attendants nearby holding extra clubs and watching each shot.[^1] In the painting, a small group focuses on the ball while one player prepares to strike, and the others follow the action closely. The setup does not feel random or casual. Instead, it looks organized and deliberate, with each person playing a specific role, which already starts to suggest that the activity was more structured than just a simple pastime. 
 
