@@ -3,38 +3,36 @@ author: Caden Williams
 title: "Sports on the Silk Road"
 layout: base
 header-image: images-copy/Chui wan painting 2.jpg
-thumbnail: images-copy/possible-thumbnail.png
+thumbnail: images-copy/thematic-essay-thumbnail.png
 summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
 ---
 # Sports on the Silk Road
 ## Sports as More Than Leisure
-
-Looking across these four objects together, what stands out most is how consistently sports appear as structured and meaningful activities rather than simple forms of entertainment. At first glance, games like chui wan, polo, falconry, and wrestling might seem like very different types of activities, taking place in different regions and cultural contexts across the Silk Road. However, when they are placed side by side, a clearer pattern begins to emerge. Each object shows that these activities required skill, rules, and organization, and were often closely connected to elite environments such as courts or royal settings. Whether it is the controlled composition of a polo match in the Shahnama, the presence of attendants in a chui wan scene, or the physical training implied by a wrestler’s weight, these objects all point to sports functioning as more than just leisure. Instead, they reflect systems of discipline, status, and cultural exchange that were shaped by the movement of people and ideas across the Silk Road. Taken together, they suggest that sports along the Silk Road were not just casual pastimes, but structured practices that reflected discipline, reinforced social status, and developed through the movement of people, objects, and ideas across connected regions. 
 {% include typography/aside.html class="right" text="
 Taken together, they suggest that sports along the Silk Road were not just casual pastimes, but structured practices that reflected discipline, reinforced social status, and developed through the movement of people, objects, and ideas across connected regions." %}
+Looking across these four objects together, what stands out most is how consistently sports appear as structured and meaningful activities rather than simple forms of entertainment. At first glance, games like chui wan, polo, falconry, and wrestling might seem like very different types of activities, taking place in different regions and cultural contexts across the Silk Road. However, when they are placed side by side, a clearer pattern begins to emerge. Each object shows that these activities required skill, rules, and organization, and were often closely connected to elite environments such as courts or royal settings. Whether it is the controlled composition of a polo match in the Shahnama, the presence of attendants in a chui wan scene, or the physical training implied by a wrestler’s weight, these objects all point to sports functioning as more than just leisure. Instead, they reflect systems of discipline, status, and cultural exchange that were shaped by the movement of people and ideas across the Silk Road. Taken together, they suggest that sports along the Silk Road were not just casual pastimes, but structured practices that reflected discipline, reinforced social status, and developed through the movement of people, objects, and ideas across connected regions. 
 
 ## Rules, Training, and Preparation
+One of the clearest patterns across these objects is that sports were structured activities, even when they might look simple at first. Chui wan is probably the clearest example because the game had specific rules, equipment, and expectations for how it should be played. Players used different clubs, followed an order of play, and aimed toward holes, which shows that the game had already developed beyond casual recreation.[^1] The wrestler’s weight shows the same idea from a different angle. Instead of showing a game in progress, it points to the training that happened before competition. Di Castro explains that the handles identify these objects as wrestler’s weights because they were designed for gripping and lifting.[^2] When these objects are placed together, they show that sports along the Silk Road were not only about the final match or performance. They also involved practice, equipment, rules, and preparation. 
 {% include images/figure.html
 class="right"
 width="30%"
-caption="Wrestler’s weight with Hercules and the Nemean Lion carved on the front. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+caption="Wrestler’s weight with Hercules and the Nemean Lion carved on the front. [Source](https://www.metmuseum.org/art/collection/search/38635)"
 image-path="images-copy/wrestlers-weight.jpeg"
 %}
 {% include images/figure.html
 class="right"
 width="30%"
-caption="Reverse side of the wrestler’s weight, showing a wrestling scene and the carved handgrips. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+caption="Reverse side of the wrestler’s weight, showing a wrestling scene and the carved handgrips. [Source](https://www.metmuseum.org/art/collection/search/38635)"
 image-path="images-copy/Opposite Side of Weight.jpeg"
 %}
-
-One of the clearest patterns across these objects is that sports were structured activities, even when they might look simple at first. Chui wan is probably the clearest example because the game had specific rules, equipment, and expectations for how it should be played. Players used different clubs, followed an order of play, and aimed toward holes, which shows that the game had already developed beyond casual recreation.[^1] The wrestler’s weight shows the same idea from a different angle. Instead of showing a game in progress, it points to the training that happened before competition. Di Castro explains that the handles identify these objects as wrestler’s weights because they were designed for gripping and lifting.[^2] When these objects are placed together, they show that sports along the Silk Road were not only about the final match or performance. They also involved practice, equipment, rules, and preparation. 
 
 [^1]: Gui Yan, Zhang Tianju, and Han Liebao, “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China,” Journal of Sport History 39, no. 2 (2012): 292–293.
 
 [^2]: Angelo Andrea Di Castro, “Of Handles and Names: Remarks on Wrestlers’ Weights,” East and West 57, no. 1/4 (2007): 367.
 
 ## Sport, Status, and Elite Settings
-{% include images/figure.html class="right" width="40%" caption="A falconry fan painting showing nomadic horsemen hunting with falcons across an open landscape.  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+{% include images/figure.html class="left" width="40%" caption="A falconry fan painting showing nomadic horsemen hunting with falcons across an open landscape.  [Source](https://www.metmuseum.org/art/collection/search/40094)"
 image-path="images-copy/DP153514.jpg" %}
 Another important connection is the relationship between sports and status. Many of these activities required time, resources, and specialized knowledge, which connected them to elite or courtly settings. The chui wan painting, for example, shows women playing in a palace-like setting with attendants nearby holding clubs, which points to wealth and social position.[^3] Falconry works similarly, even though it takes place in a very different environment. Hunting with trained birds required patience, knowledge, and access to birds of prey, so it was not something everyone could easily do. Otsuka describes falconry as a cooperative hunting method between the human and the bird, which helps show why it should be understood as a skilled activity rather than ordinary hunting.[^4] Polo also fits this pattern because it required horses, equipment, and an audience where performance could matter.
 
@@ -49,7 +47,7 @@ The Silk Road connection becomes clearer when looking at how these activities mo
 [^6]: Otsuka, “Falconry,” 198.
 
 ## Action, Worth, and the Shahnama
-{% include images/figure.html class="right" width="40%" caption="Siyavush Plays Polo before Afrasiyab from the Shahnama, showing mounted players competing in an organized polo match.  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
+{% include images/figure.html class="right" width="40%" caption="Siyavush Plays Polo before Afrasiyab from the Shahnama, showing mounted players competing in an organized polo match.  [Source](https://www.metmuseum.org/art/collection/search/452135)"
 image-path="images-copy/Polo.jpg" %}
 
 This connection also appears when comparing my polo object to another Shahnama folio from the class, Isfandiyar’s Third Course: He Slays a Dragon. At first, a polo match and a dragon-slaying scene seem very different, but both images use physical action as a way to show worth and status. In my object, Siyavush’s polo match becomes a test of skill, control, and serious competition. In the Isfandiyar folio, the hero’s defeat of the dragon works in a similar way because the challenge helps prove his ability and future legitimacy. The object page explains that Isfandiyar’s trials were connected to his future ascension, and that defeating the dragon reaffirms his legitimacy as a heroic figure.[^7] Looking at the two folios together helps show that the Shahnama used action scenes to represent ideals like discipline, strength, strategy, and authority. For my project, that connection matters because it shows that sport could belong in the same kind of visual world as heroic combat, where physical performance carried meaning beyond the action itself.
