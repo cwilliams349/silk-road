@@ -24,7 +24,6 @@ Looking at falconry more closely helps explain why the scene appears so organize
 
 [^2]: R. MaMing et al., “Raptor Conservation and Culture in the West of China,” *Ela Journal* 3, no. 1 (2014): 24.
 
-
 ## Elite Activity and Cultural Status
 {% include images/figure.html class="left" width="40%" caption="A prince holding a falcon, showing the close connection between falconry and elite life. [Source](https://www.metmuseum.org/art/collection/search/767842)" image-path="images/elite falconry.jpeg" %}
 
@@ -33,6 +32,7 @@ Another important aspect of falconry is its connection to elite culture. While h
 [^3]: Otsuka, “Falconry,” 198.
 
 [^4]: MaMing et al., “Raptor Conservation and Culture,” 24.
+
 ## Falconry in a Silk Road Context
 {% include typography/aside.html class="right" text="
 Falconry shows how a single activity could develop in one area and then be carried across cultures, where it continued to evolve while still maintaining its core features." %}

@@ -46,6 +46,7 @@ image-path="images-copy/Polo.jpg" %}
 This connection also appears when comparing my polo object to another *Shahnama* folio from the class, Isfandiyar’s Third Course: He Slays a Dragon. At first, a polo match and a dragon-slaying scene seem very different, but both images use physical action as a way to show worth and status. In my object, Siyavush’s polo match becomes a test of skill, control, and serious competition. In the Isfandiyar folio, the hero’s defeat of the dragon works in a similar way because the challenge helps prove his ability and future legitimacy. The object page explains that Isfandiyar’s trials were connected to his future ascension, and that defeating the dragon reaffirms his legitimacy as a heroic figure.[^7] Looking at the two folios together helps show that the *Shahnama* used action scenes to represent ideals like discipline, strength, strategy, and authority. For my project, that connection matters because it shows that sport could belong in the same kind of visual world as heroic combat, where physical performance carried meaning beyond the action itself.
 
 [^7]: “Isfandiyar’s Third Course: He Slays a Dragon,” *The Silk Road*, Amaranth Digital Humanities Studio, accessed May 7, 2026, https://amaranth.unm.edu/silk-road//objects/isfandiyars-third-course/.
+
 ## Rethinking Sports on the Silk Road
 Overall, these objects show that sports were a meaningful part of Silk Road culture because they connected the body to larger ideas about society. Some objects show rules and organized play, while others show training, hunting, or competition in elite settings. Even though the activities themselves are different, they all point to the same larger idea: sport was a way to show skill, discipline, and social position. Looking at these objects together also helps expand how the Silk Road can be understood. It was not only a route for trade or luxury goods, but also a space where practices and values moved between regions. In that sense, these objects show that sports were not separate from the broader history of the Silk Road, but were part of how connected societies understood skill, status, and identity.
 
@@ -55,11 +56,7 @@ Overall, these objects show that sports were a meaningful part of Silk Road cult
 ## Bibliography
 
 - Amaranth Digital Humanities Studio. “Isfandiyar’s Third Course: He Slays a Dragon.” *The Silk Road*. Accessed May 7, 2026. https://amaranth.unm.edu/silk-road//objects/isfandiyars-third-course/.
-
 - Di Castro, Angelo Andrea. “Of Handles and Names: Remarks on Wrestlers’ Weights.” *East and West* 57, no. 1/4 (2007): 367–76. http://www.jstor.org/stable/29757734.
-
 - Gierlichs, Joachim. “Horse Games in Islamic Art.” In *Horse Games – Horse Sports: From Traditional Oriental Games to Modern and Olympic Sport*, edited by Andreas Amendt and Christian Wacker. Qatar Olympic & Sports Museum, 2012.
-
 - Otsuka, Noriko. “Falconry: Tradition and Acculturation.” *International Journal of Sport and Health Science* 4, no. Special Issue 2 (2006): 198–207. https://doi.org/10.5432/ijshs.4.198.
-
 - Yan, Gui, Zhang Tianju, and Han Liebao. “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China.” *Journal of Sport History* 39, no. 2 (2012): 283–297. https://cdm17103.contentdm.oclc.org/digital/collection/p17103coll10/id/14107.
