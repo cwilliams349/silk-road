@@ -54,8 +54,12 @@ Overall, these objects show that sports were a meaningful part of Silk Road cult
 
 ## Bibliography
 
-- Yan, Gui, Zhang Tianju, and Han Liebao. “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China.” *Journal of Sport History* 39, no. 2 (2012): 283–297. https://cdm17103.contentdm.oclc.org/digital/collection/p17103coll10/id/14107. 
+- Amaranth Digital Humanities Studio. “Isfandiyar’s Third Course: He Slays a Dragon.” *The Silk Road*. Accessed May 7, 2026. https://amaranth.unm.edu/silk-road//objects/isfandiyars-third-course/.
+
 - Di Castro, Angelo Andrea. “Of Handles and Names: Remarks on Wrestlers’ Weights.” *East and West* 57, no. 1/4 (2007): 367–76. http://www.jstor.org/stable/29757734.
-- Otsuka, Noriko. “Falconry: Tradition and Acculturation.” *International Journal of Sport and Health Science* 4, no. Special Issue 2 (2006): 198–207. https://doi.org/10.5432/ijshs.4.198. 
+
 - Gierlichs, Joachim. “Horse Games in Islamic Art.” In *Horse Games – Horse Sports: From Traditional Oriental Games to Modern and Olympic Sport*, edited by Andreas Amendt and Christian Wacker. Qatar Olympic & Sports Museum, 2012.
-- Amaranth Digital Humanities Studio. “Isfandiyar’s Third Course: He Slays a Dragon.” *The Silk Road*. Accessed May 7, 2026. https://amaranth.unm.edu/silk-road//objects/isfandiyars-third-course/. 
+
+- Otsuka, Noriko. “Falconry: Tradition and Acculturation.” *International Journal of Sport and Health Science* 4, no. Special Issue 2 (2006): 198–207. https://doi.org/10.5432/ijshs.4.198.
+
+- Yan, Gui, Zhang Tianju, and Han Liebao. “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China.” *Journal of Sport History* 39, no. 2 (2012): 283–297. https://cdm17103.contentdm.oclc.org/digital/collection/p17103coll10/id/14107.

@@ -15,14 +15,14 @@ tags: wrestler, weight, Gandhara
 
 The third object is a stone wrestler’s weight decorated with an image of Herakles and the Nemean lion. The rectangular slab includes carved handles on the sides, which were used for gripping and lifting, and the presence of those handles is what makes the object recognizable as a piece of athletic equipment rather than just a carved stone. While the relief draws attention because of its mythological subject, the object itself was designed to be used physically. Angelo Andrea Di Castro explains that the handle is the “diagnostic element” that allows scholars to identify these objects as wrestler’s weights, since it turns what would otherwise be a simple slab into something meant for lifting and training.[^1] The combination of a carved scene and a functional design immediately suggests that the object had both a practical and symbolic purpose. 
 
-[^1]: Angelo Andrea Di Castro, “Of Handles and Names: Remarks on Wrestlers’ Weights,” East and West 57, no. 1/4 (2007): 367.
+[^1]: Angelo Andrea Di Castro, “Of Handles and Names: Remarks on Wrestlers’ Weights,” *East and West* 57, no. 1/4 (2007): 367.
 
 ## Training, Use, and Physical Practice
 {% include images/figure.html class="right" width="48%" caption="Wrestler’s weight with Hercules and the Nemean Lion carved on the front. [Source](https://www.metmuseum.org/art/collection/search/38635)" image-path="images/wrestlers-weight.jpeg" %}
 
 Looking more closely at the physical design helps clarify how the object was actually used. The handles were shaped to allow a firm grip, which made it possible to lift the weight repeatedly during training. Di Castro describes similar examples as being designed specifically “to enable a firm grip and lifting,” which points to repeated physical use rather than occasional handling.[^2] That detail is important because it shows that the object was part of a training routine rather than just a representation of athletic culture. A wrestler would likely have used a weight like this multiple times in order to build strength and endurance, meaning that the object was directly connected to the process of preparing for competition. The presence of wear on some examples also supports that idea, since it suggests that the weights were actively used over time rather than preserved in perfect condition.[^3] In that sense, the object reflects the physical side of sport, where training and repetition are just as important as the competition itself. 
 
-[^2]: Angelo Andrea Di Castro, “A Late Gandharan Wrestlers’ Weight,” East and West 53, no. 1/4 (2003): 257.
+[^2]: Angelo Andrea Di Castro, “A Late Gandharan Wrestlers’ Weight,” *East and West* 53, no. 1/4 (2003): 257.
 
 [^3]: Di Castro, “A Late Gandharan Wrestlers’ Weight,” 259.
 
@@ -46,12 +46,11 @@ The Silk Road connection becomes clearer when considering where these objects ha
 
 Wrestling itself also supports that broader connection. The sport appears in multiple regions connected by the Silk Road and remained an important part of physical culture over long periods of time. Ubaidulloev describes wrestling as one of the traditional sports of Central Asia, emphasizing its continuity and importance across different historical periods.[^7] That continuity suggests that wrestling was not just a local activity, but part of a shared tradition that moved and adapted across regions. When the object is viewed in that context, the wrestler’s weight represents more than just a tool for exercise. It reflects how athletes trained, how cultural ideas were expressed through imagery, and how both of those elements circulated within a larger network of exchange. The weight shows that sport on the Silk Road was not only about competition, but also about preparation, meaning, and the movement of practices across different societies. 
 
-[^7]: Zubaidullo Ubaidulloev, “The History and Characteristics of Traditional Sports in Central Asia: Tajikistan,” Bulletin of the Faculty of Health and Sport Sciences 38 (2015): 43.
+[^7]: Zafar Ubaidulloev, “The History and Characteristics of Traditional Sports in Central Asia: Tajikistan,” *Bulletin of the Faculty of Health and Sport Sciences* 38 (2015): 43.
 
 ---
 
 ## Bibliography
-
-- Di Castro, Angelo Andrea. “Of Handles and Names: Remarks on Wrestlers’ Weights.” East and West 57, no. 1/4 (2007): 367–76. http://www.jstor.org/stable/29757734. 
-- Di Castro, Angelo Andrea. “A Late Gandharan Wrestlers’ Weight.” East and West 53, no. 1/4 (2003): 257–65. http://www.jstor.org/stable/29757580.
-- Ubaidulloev, Zafar. “The History and Characteristics of Traditional Sports in Central Asia: Tajikistan.” The Bulletin of the Faculty of Health and Sport Sciences 38 (2015): 43–58.  
+- Di Castro, Angelo Andrea. “A Late Gandharan Wrestlers’ Weight.” *East and West* 53, no. 1/4 (2003): 257–65. http://www.jstor.org/stable/29757580.
+- Di Castro, Angelo Andrea. “Of Handles and Names: Remarks on Wrestlers’ Weights.” *East and West* 57, no. 1/4 (2007): 367–76. http://www.jstor.org/stable/29757734. 
+- Ubaidulloev, Zafar. “The History and Characteristics of Traditional Sports in Central Asia: Tajikistan.” *The Bulletin of the Faculty of Health and Sport Sciences* 38 (2015): 43–58.

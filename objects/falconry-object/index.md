@@ -20,9 +20,9 @@ The second object is a fan painting showing nomadic horsemen hunting with falcon
 {% include images/figure.html class="right" width="48%" caption="A falconry fan painting showing nomadic horsemen hunting with falcons across an open landscape. [Source](https://www.metmuseum.org/art/collection/search/40094)" image-path="images/DP153514.jpg" %} 
 Looking at falconry more closely helps explain why the scene appears so organized. Otsuka describes falconry as a “cooperative hunting method,” where both the human and the bird must be trained to respond to one another.[^1] That relationship is important because it means the success of the activity depends on communication and control rather than chance. The bird is not acting independently, and the hunter is not acting alone. Both are part of a system that has to be developed over time. That level of interaction makes falconry feel closer to a sport than simple hunting, since it involves skill, repetition, and technique. The long history of falconry also helps place the painting in a broader context. Research on raptor use in western China shows that falconry practices have deep roots in Central Asian and steppe cultures, where hunting with birds of prey was a well-established tradition.[^2] These practices were closely connected to the lifestyle of nomadic groups, who depended on mobility and knowledge of the environment. The presence of horseback riders in the painting reflects that background, since horses were essential for both travel and hunting across the steppe. The combination of horseback riding and falconry suggests a form of activity that required multiple skills at once, reinforcing the idea that it was highly developed. 
 
-[^1]: Noriko Otsuka, “Falconry: Tradition and Acculturation,” International Journal of Sport and Health Science 4 (2006): 198.
+[^1]: Noriko Otsuka, “Falconry: Tradition and Acculturation,” *International Journal of Sport and Health Science* 4 (2006): 198.
 
-[^2]: R. MaMing et al., “Raptor Conservation and Culture in the West of China,” Ela Journal 3, no. 1 (2014): 24.
+[^2]: R. MaMing et al., “Raptor Conservation and Culture in the West of China,” *Ela Journal* 3, no. 1 (2014): 24.
 
 
 ## Elite Activity and Cultural Status
@@ -41,6 +41,5 @@ In that sense, the painting represents more than just a moment of hunting. It re
 ---
 
 ## Bibliography
-
-- Otsuka, Noriko. “Falconry: Tradition and Acculturation.” International Journal of Sport and Health Science 4, no. Special Issue 2 (2006): 198–207. https://doi.org/10.5432/ijshs.4.198.  
-- MaMing, R., X. M. Zhao, G. H. Xu, J. Caiwu, T. Zhang, P. Ding, and F. Xu. “Raptor Conservation and Culture in the West of China.” Ela Journal 3, no. 1 (2014): 23–29. 
+- MaMing, R., X. M. Zhao, G. H. Xu, J. Caiwu, T. Zhang, P. Ding, and F. Xu. “Raptor Conservation and Culture in the West of China.” *Ela Journal* 3, no. 1 (2014): 23–29.
+- Otsuka, Noriko. “Falconry: Tradition and Acculturation.” *International Journal of Sport and Health Science* 4, no. Special Issue 2 (2006): 198–207. https://doi.org/10.5432/ijshs.4.198.   

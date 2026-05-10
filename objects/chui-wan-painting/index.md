@@ -15,7 +15,7 @@ tags: chui wan, women, china
 
 The first object is a handscroll painting that shows a group of figures playing chui wan, a golf-like game that was popular in China during the Song, Yuan, and Ming dynasties. Scenes like this are described in historical sources as taking place in controlled, almost staged environments, where players stood on open ground with attendants nearby holding extra clubs and watching each shot.[^1] In the painting, a small group focuses on the ball while one player prepares to strike, and the others follow the action closely. The setup does not feel random or casual. Instead, it looks organized and deliberate, with each person playing a specific role, which already starts to suggest that the activity was more structured than just a simple pastime. 
 
-[^1]: Gui Yan, Zhang Tianju, and Han Liebao, “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China,” Journal of Sport History 39, no. 2 (2012): 288.
+[^1]: Gui Yan, Zhang Tianju, and Han Liebao, “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China,” *Journal of Sport History* 39, no. 2 (2012): 288.
 
 ## Rules, Strategy, and Skill
 That sense of structure becomes clearer when looking at how chui wan was actually played. According to Yan, Zhang, and Han, the game included defined rules, equipment, and strategies, all of which were recorded in the historical text Wan Jing.[^2] The existence of a written guide is important because it shows that the game had reached a level of development where it needed to be standardized and taught. 
@@ -50,7 +50,7 @@ image-path="images/Chui wan painting 2.jpg"
 ## Silk Road Context and Early Ball Games
 The broader Silk Road context helps explain why the object matters beyond its immediate setting. While chui wan is associated with China, the idea of organized ball games was not limited to one region. Archaeological evidence from Central Asia shows that ball games existed as early as the first millennium BCE and were often connected to physical exercise and social interaction.[^8] These earlier games were likely different in form, but they show that structured play was already part of the region’s culture. The same research suggests that ball games were connected to the development of horseback riding and mobility, which places them within a larger network of movement and exchange.[^9] When chui wan is viewed within that broader framework, it can be understood as part of a longer process rather than an isolated development. 
 
-[^8]: Patrick Wertmann, Xinyong Chen, Xiao Li, Dongliang Xu, Pavel E. Tarasov, and Mayke Wagner, “New Evidence for Ball Games in Eurasia from ca. 3000-Year-Old Yanghai Tombs in the Turfan Depression of Northwest China,” Journal of Archaeological Science: Reports 34 (2020): 1.
+[^8]: Patrick Wertmann, Xinyong Chen, Xiao Li, Dongliang Xu, Pavel E. Tarasov, and Mayke Wagner, “New Evidence for Ball Games in Eurasia from ca. 3000-Year-Old Yanghai Tombs in the Turfan Depression of Northwest China,” *Journal of Archaeological Science: Reports* 34 (2020): 1.
 
 [^9]: Wertmann et al., “New Evidence for Ball Games in Eurasia,” 10.
 ## Connections to Polo and Cultural Exchange
@@ -63,6 +63,5 @@ That relationship shows how sports could evolve as they moved across regions, ad
 ---
 
 ## Bibliography
-
-- Yan, Gui, Zhang Tianju, and Han Liebao. “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China.” Journal of Sport History 39, no. 2 (2012): 283–297. https://cdm17103.contentdm.oclc.org/digital/collection/p17103coll10/id/14107.
-- Wertmann, Patrick, Xinyong Chen, Xiao Li, Dongliang Xu, Pavel E. Tarasov, and Mayke Wagner. “New Evidence for Ball Games in Eurasia from ca. 3000-Year-Old Yanghai Tombs in the Turfan Depression of Northwest China.” Journal of Archaeological Science: Reports 34 (2020): 102576. https://doi.org/10.1016/j.jasrep.2020.102576.
+- Wertmann, Patrick, Xinyong Chen, Xiao Li, Dongliang Xu, Pavel E. Tarasov, and Mayke Wagner. “New Evidence for Ball Games in Eurasia from ca. 3000-Year-Old Yanghai Tombs in the Turfan Depression of Northwest China.” *Journal of Archaeological Science: Reports* 34 (2020): 102576. https://doi.org/10.1016/j.jasrep.2020.102576.
+- Yan, Gui, Zhang Tianju, and Han Liebao. “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China.” *Journal of Sport History* 39, no. 2 (2012): 283–297. https://cdm17103.contentdm.oclc.org/digital/collection/p17103coll10/id/14107.
