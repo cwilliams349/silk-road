@@ -18,7 +18,7 @@ One of the clearest patterns across these objects is that sports were structured
 class="right"
 width="40%"
 caption="Both sides of the wrestler’s weight, with Herakles and the Nemean Lion on one side and a wrestling scene with handgrips on the reverse. [Source](https://www.metmuseum.org/art/collection/search/38635)"
-image-path="images-copy/weight-combination.png"
+image-path="images-copy/weight-combination.png"%}
 [^1]: Gui Yan, Zhang Tianju, and Han Liebao, “The Study of Chui Wan, a Golf-like Game in the Song, Yuan, and Ming Dynasties of Ancient China,” Journal of Sport History 39, no. 2 (2012): 292–293.
 
 [^2]: Angelo Andrea Di Castro, “Of Handles and Names: Remarks on Wrestlers’ Weights,” East and West 57, no. 1/4 (2007): 367.
