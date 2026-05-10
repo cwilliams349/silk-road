@@ -32,9 +32,10 @@ image-path="images-copy/Opposite Side of Weight.jpeg"
 [^2]: Angelo Andrea Di Castro, “Of Handles and Names: Remarks on Wrestlers’ Weights,” East and West 57, no. 1/4 (2007): 367.
 
 ## Sport, Status, and Elite Settings
+Another important connection is the relationship between sports and status. Many of these activities required time, resources, and specialized knowledge, which connected them to elite or courtly settings. The chui wan painting, for example, shows women playing in a palace-like setting with attendants nearby holding clubs, which points to wealth and social position.[^3] Falconry works similarly, even though it takes place in a very different environment. Hunting with trained birds required patience, knowledge, and access to birds of prey, so it was not something everyone could easily do. Otsuka describes falconry as a cooperative hunting method between the human and the bird, which helps show why it should be understood as a skilled activity rather than ordinary hunting.[^4] Polo also fits this pattern because it required horses, equipment, and an audience where performance could matter.
+
 {% include images/figure.html class="left" width="40%" caption="A falconry fan painting showing nomadic horsemen hunting with falcons across an open landscape.  [Source](https://www.metmuseum.org/art/collection/search/40094)"
 image-path="images-copy/DP153514.jpg" %}
-Another important connection is the relationship between sports and status. Many of these activities required time, resources, and specialized knowledge, which connected them to elite or courtly settings. The chui wan painting, for example, shows women playing in a palace-like setting with attendants nearby holding clubs, which points to wealth and social position.[^3] Falconry works similarly, even though it takes place in a very different environment. Hunting with trained birds required patience, knowledge, and access to birds of prey, so it was not something everyone could easily do. Otsuka describes falconry as a cooperative hunting method between the human and the bird, which helps show why it should be understood as a skilled activity rather than ordinary hunting.[^4] Polo also fits this pattern because it required horses, equipment, and an audience where performance could matter.
 
 [^3]: Yan, Zhang, and Han, “The Study of Chui Wan,” 288.
 
